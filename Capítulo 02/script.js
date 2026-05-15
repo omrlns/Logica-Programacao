@@ -1,4 +1,4 @@
-import { escrever } from "./utilitarios.js";
+import { escrever } from "../Utilitários/escrever.js";
 
 escrever("Olá mundo!", "resultado");
 escrever("Esse é o meu segundo programa!", "resultado");

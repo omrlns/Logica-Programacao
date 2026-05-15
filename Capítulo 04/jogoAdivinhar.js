@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js"
+import { escrever } from "../Utilitários/escrever.js";
 
 let numeroCPU = (Math.random() * 10).toFixed(0);
 alert("Eu sou a CPU e pensei em um número. Adivinhe!");

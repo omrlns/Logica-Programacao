@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js";
+import { escrever } from "../Utilitários/escrever.js";
 
 let peso = 78;  
 let altura = 1.80;

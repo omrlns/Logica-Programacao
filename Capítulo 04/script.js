@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js"
+import { escrever } from "../Utilitários/escrever.js";
 
 let nVitoriasA = parseInt(prompt("Quantos jogos o SPFC venceu?"));
 let nEmpatesA = parseInt(prompt("Quantos jogos o SPFC empatou?"));

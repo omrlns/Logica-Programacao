@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js"
+import { escrever } from "../Utilitários/escrever.js";
 
 // let anoDeCopa = 1930; // primeira edição da copa
 

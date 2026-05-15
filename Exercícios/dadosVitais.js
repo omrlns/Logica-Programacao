@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js";
+import { escrever } from "../Utilitários/escrever.js";
 
 let nome = prompt("Olá! Qual é o seu nome?");
 let idade = prompt(`${nome}, qual é a sua idade?`);

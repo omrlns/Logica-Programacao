@@ -1,4 +1,4 @@
-import { escrever } from "../Capítulo 02/utilitarios.js";
+import { escrever } from "../Utilitários/escrever.js";
 
 let tabuada = parseInt(prompt("Você deseja saber a TABUADA de qual número?"));
 let multiplicador = 0;

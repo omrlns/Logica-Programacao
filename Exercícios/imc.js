@@ -1,4 +1,5 @@
-import { escrever, calcularIMC } from "../Capítulo 02/utilitarios.js";
+import { escrever } from "../Utilitários/escrever.js";
+import { calcularIMC } from "../Utilitários/calcularIMC.js";
 
 let nomeUsuario = prompt("Bom dia! Qual é o seu nome?");
 alert(`Prazer ${nomeUsuario}, vamos calcular o seu IMC!`);
